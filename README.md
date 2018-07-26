@@ -6,6 +6,6 @@ Steps to create the basic part of this application can be found [here](https://d
 
 ## Screenshots
 
-![alt text](https://github.com/shadesrt/polling-django/blob/master/ss%20(4).png)
+![alt text](https://github.com/shadesrt/polling-app-django/blob/master/ss%20(4).png)
 
 Project is still under work hence the rest screenshots will be added later.
