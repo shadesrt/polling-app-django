@@ -1,5 +1,3 @@
-## Django Framework
-
 # Polling Application
 
 ```
